@@ -34876,7 +34876,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Afghanistan",
-"Alpha-2": "AF"
+"Alpha-2": "AF",
+"Continent": "MiddleEast"
 },
 "id": "AFG"
 },
@@ -34901,7 +34902,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Angola",
-"Alpha-2": "AO"
+"Alpha-2": "AO",
+"Continent": "Africa"
 },
 "id": "AGO"
 },
@@ -34918,7 +34920,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Albania",
-"Alpha-2": "AL"
+"Alpha-2": "AL",
+"Continent": "Europe"
 },
 "id": "ALB"
 },
@@ -34935,7 +34938,8 @@
 "type": "Polygon",
 "properties": {
 "name": "United Arab Emirates",
-"Alpha-2": "AE"
+"Alpha-2": "AE",
+"Continent": "MiddleEast"
 },
 "id": "ARE"
 },
@@ -34961,7 +34965,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Argentina",
-"Alpha-2": "AR"
+"Alpha-2": "AR",
+"Continent": "SouthAmerica"
 },
 "id": "ARG"
 },
@@ -34978,7 +34983,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Armenia",
-"Alpha-2": "AM"
+"Alpha-2": "AM",
+"Continent": "MiddleEast"
 },
 "id": "ARM"
 },
@@ -35061,7 +35067,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Australia",
-"Alpha-2": "AU"
+"Alpha-2": "AU",
+"Continent": "Oceania"
 },
 "id": "AUS"
 },
@@ -35080,7 +35087,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Austria",
-"Alpha-2": "AT"
+"Alpha-2": "AT",
+"Continent": "Europe"
 },
 "id": "AUT"
 },
@@ -35106,7 +35114,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Azerbaijan",
-"Alpha-2": "AZ"
+"Alpha-2": "AZ",
+"Continent": "MiddleEast"
 },
 "id": "AZE"
 },
@@ -35121,7 +35130,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Burundi",
-"Alpha-2": "BI"
+"Alpha-2": "BI",
+"Continent": "Africa"
 },
 "id": "BDI"
 },
@@ -35139,7 +35149,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Belgium",
-"Alpha-2": "BE"
+"Alpha-2": "BE",
+"Continent": "Europe"
 },
 "id": "BEL"
 },
@@ -35156,7 +35167,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Benin",
-"Alpha-2": "BJ"
+"Alpha-2": "BJ",
+"Continent": "Africa"
 },
 "id": "BEN"
 },
@@ -35174,7 +35186,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Burkina Faso",
-"Alpha-2": "BF"
+"Alpha-2": "BF",
+"Continent": "Africa"
 },
 "id": "BFA"
 },
@@ -35189,7 +35202,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Bangladesh",
-"Alpha-2": "BD"
+"Alpha-2": "BD",
+"Continent": "Asia"
 },
 "id": "BGD"
 },
@@ -35207,7 +35221,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Bulgaria",
-"Alpha-2": "BG"
+"Alpha-2": "BG",
+"Continent": "Europe"
 },
 "id": "BGR"
 },
@@ -35232,7 +35247,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "The Bahamas",
-"Alpha-2": "BS"
+"Alpha-2": "BS",
+"Continent": "Caribbbean"
 },
 "id": "BHS"
 },
@@ -35247,7 +35263,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Bosnia and Herzegovina",
-"Alpha-2": "BA"
+"Alpha-2": "BA",
+"Continent": "Europe"
 },
 "id": "BIH"
 },
@@ -35264,7 +35281,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Belarus",
-"Alpha-2": "BY"
+"Alpha-2": "BY",
+"Continent": "Europe"
 },
 "id": "BLR"
 },
@@ -35279,7 +35297,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Belize",
-"Alpha-2": "BZ"
+"Alpha-2": "BZ",
+"Continent": "CentralAmerica"
 },
 "id": "BLZ"
 },
@@ -35309,7 +35328,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Bermuda",
-"Alpha-2": "BM"
+"Alpha-2": "BM",
+"Continent": "Caribbean"
 },
 "id": "BMU"
 },
@@ -35326,7 +35346,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Bolivia",
-"Alpha-2": "BO"
+"Alpha-2": "BO",
+"Continent": "SouthAmerica"
 },
 "id": "BOL"
 },
@@ -35349,7 +35370,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Brazil",
-"Alpha-2": "BR"
+"Alpha-2": "BR",
+"Continent": "SouthAmerica"
 },
 "id": "BRA"
 },
@@ -35363,7 +35385,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Brunei",
-"Alpha-2": "BN"
+"Alpha-2": "BN",
+"Continent": "Asia"
 },
 "id": "BRN"
 },
@@ -35377,7 +35400,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Bhutan",
-"Alpha-2": "BT"
+"Alpha-2": "BT",
+"Continent": "Asia"
 },
 "id": "BTN"
 },
@@ -35393,7 +35417,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Botswana",
-"Alpha-2": "BW"
+"Alpha-2": "BW",
+"Continent": "Africa"
 },
 "id": "BWA"
 },
@@ -35412,7 +35437,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Central African Republic",
-"Alpha-2": "CF"
+"Alpha-2": "CF",
+"Continent": "Africa"
 },
 "id": "CAF"
 },
@@ -35575,7 +35601,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Canada",
-"Alpha-2": "CA"
+"Alpha-2": "CA",
+"Continent": "NorthAmerica"
 },
 "id": "CAN"
 },
@@ -35591,7 +35618,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Switzerland",
-"Alpha-2": "CH"
+"Alpha-2": "CH",
+"Continent": "Europe"
 },
 "id": "CHE"
 },
@@ -35616,7 +35644,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Chile",
-"Alpha-2": "CL"
+"Alpha-2": "CL",
+"Continent": "SouthAmerica"
 },
 "id": "CHL"
 },
@@ -35654,7 +35683,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "China",
-"Alpha-2": "CN"
+"Alpha-2": "CN",
+"Continent": "Asia"
 },
 "id": "CHN"
 },
@@ -35672,7 +35702,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Ivory Coast",
-"Alpha-2": "CI"
+"Alpha-2": "CI",
+"Continent": "Africa"
 },
 "id": "CIV"
 },
@@ -35692,7 +35723,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Cameroon",
-"Alpha-2": "CM"
+"Alpha-2": "CM",
+"Continent": "Africa"
 },
 "id": "CMR"
 },
@@ -35716,7 +35748,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Democratic Republic of the Congo",
-"Alpha-2": "CD"
+"Alpha-2": "CD",
+"Continent": "Africa"
 },
 "id": "COD"
 },
@@ -35734,7 +35767,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Republic of the Congo",
-"Alpha-2": "CG"
+"Alpha-2": "CG",
+"Continent": "Africa"
 },
 "id": "COG"
 },
@@ -35753,7 +35787,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Colombia",
-"Alpha-2": "CO"
+"Alpha-2": "CO",
+"Continent": "SouthAmerica"
 },
 "id": "COL"
 },
@@ -35769,7 +35804,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Costa Rica",
-"Alpha-2": "CR"
+"Alpha-2": "CR",
+"Continent": "Caribbean"
 },
 "id": "CRI"
 },
@@ -35782,7 +35818,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Cuba",
-"Alpha-2": "CU"
+"Alpha-2": "CU",
+"Continent": "Caribbean"
 },
 "id": "CUB"
 },
@@ -35796,7 +35833,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Northern Cyprus",
-"Alpha-2": null
+"Alpha-2": null,
+"Continent": "Europe"
 },
 "id": "-99"
 },
@@ -35810,7 +35848,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Cyprus",
-"Alpha-2": "CY"
+"Alpha-2": "CY",
+"Continent": "Europe"
 },
 "id": "CYP"
 },
@@ -35826,7 +35865,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Czech Republic",
-"Alpha-2": "CZ"
+"Alpha-2": "CZ",
+"Continent": "Europe"
 },
 "id": "CZE"
 },
@@ -35849,7 +35889,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Germany",
-"Alpha-2": "DE"
+"Alpha-2": "DE",
+"Continent": "Europe"
 },
 "id": "DEU"
 },
@@ -35865,7 +35906,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Djibouti",
-"Alpha-2": "DJ"
+"Alpha-2": "DJ",
+"Continent": "Africa"
 },
 "id": "DJI"
 },
@@ -35886,7 +35928,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Denmark",
-"Alpha-2": "DK"
+"Alpha-2": "DK",
+"Continent": "Europe"
 },
 "id": "DNK"
 },
@@ -35900,7 +35943,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Dominican Republic",
-"Alpha-2": "DO"
+"Alpha-2": "DO",
+"Continent": "Caribbean"
 },
 "id": "DOM"
 },
@@ -35920,7 +35964,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Algeria",
-"Alpha-2": "DZ"
+"Alpha-2": "DZ",
+"Continent": "Africa"
 },
 "id": "DZA"
 },
@@ -35935,7 +35980,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Ecuador",
-"Alpha-2": "EC"
+"Alpha-2": "EC",
+"Continent": "SouthAmerica"
 },
 "id": "ECU"
 },
@@ -35952,7 +35998,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Egypt",
-"Alpha-2": "EG"
+"Alpha-2": "EG",
+"Continent": "Africa"
 },
 "id": "EGY"
 },
@@ -35968,7 +36015,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Eritrea",
-"Alpha-2": "ER"
+"Alpha-2": "ER",
+"Continent": "Africa"
 },
 "id": "ERI"
 },
@@ -35984,7 +36032,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Spain",
-"Alpha-2": "ES"
+"Alpha-2": "ES",
+"Continent": "Europe"
 },
 "id": "ESP"
 },
@@ -35999,7 +36048,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Estonia",
-"Alpha-2": "EE"
+"Alpha-2": "EE",
+"Continent": "Europe"
 },
 "id": "EST"
 },
@@ -36019,7 +36069,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Ethiopia",
-"Alpha-2": "ET"
+"Alpha-2": "ET",
+"Continent": "Africa"
 },
 "id": "ETH"
 },
@@ -36035,7 +36086,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Finland",
-"Alpha-2": "FI"
+"Alpha-2": "FI",
+"Continent": "Europe"
 },
 "id": "FIN"
 },
@@ -36060,7 +36112,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Fiji",
-"Alpha-2": "FJ"
+"Alpha-2": "FJ",
+"Continent": "Oceania"
 },
 "id": "FJI"
 },
@@ -36073,7 +36126,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Falkland Islands",
-"Alpha-2": "FK"
+"Alpha-2": "FK",
+"Continent": "SouthAmerica"
 },
 "id": "FLK"
 },
@@ -36100,7 +36154,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "France",
-"Alpha-2": "FR"
+"Alpha-2": "FR",
+"Continent": "Europe"
 },
 "id": "FRA"
 },
@@ -36116,7 +36171,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Gabon",
-"Alpha-2": "GA"
+"Alpha-2": "GA",
+"Continent": "Africa"
 },
 "id": "GAB"
 },
@@ -36138,7 +36194,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "United Kingdom",
-"Alpha-2": "GB"
+"Alpha-2": "GB",
+"Continent": "Europe"
 },
 "id": "GBR"
 },
@@ -36155,7 +36212,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Georgia",
-"Alpha-2": "GE"
+"Alpha-2": "GE",
+"Continent": "MiddleEast"
 },
 "id": "GEO"
 },
@@ -36171,7 +36229,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Ghana",
-"Alpha-2": "GH"
+"Alpha-2": "GH",
+"Continent": "Africa"
 },
 "id": "GHA"
 },
@@ -36190,7 +36249,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Guinea",
-"Alpha-2": "GN"
+"Alpha-2": "GN",
+"Continent": "Africa"
 },
 "id": "GIN"
 },
@@ -36204,7 +36264,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Gambia",
-"Alpha-2": "GM"
+"Alpha-2": "GM",
+"Continent": "Africa"
 },
 "id": "GMB"
 },
@@ -36219,7 +36280,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Guinea Bissau",
-"Alpha-2": "GW"
+"Alpha-2": "GW",
+"Continent": "Africa"
 },
 "id": "GNB"
 },
@@ -36234,7 +36296,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Equatorial Guinea",
-"Alpha-2": "GQ"
+"Alpha-2": "GQ",
+"Continent": "Africa"  
 },
 "id": "GNQ"
 },
@@ -36258,7 +36321,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Greece",
-"Alpha-2": "GR"
+"Alpha-2": "GR",
+"Continent": "Europe"
 },
 "id": "GRC"
 },
@@ -36271,7 +36335,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Greenland",
-"Alpha-2": "GL"
+"Alpha-2": "GL",
+"Continent": "NorthAmerica"
 },
 "id": "GRL"
 },
@@ -36289,7 +36354,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Guatemala",
-"Alpha-2": "GT"
+"Alpha-2": "GT",
+"Continent": "CentralAmerica"
 },
 "id": "GTM"
 },
@@ -36305,7 +36371,8 @@
 "type": "Polygon",
 "properties": {
 "name": "French Guiana",
-"Alpha-2": "GF"
+"Alpha-2": "GF",
+"Continent": "SouthAmerica"
 },
 "id": "GUF"
 },
@@ -36321,7 +36388,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Guyana",
-"Alpha-2": "GY"
+"Alpha-2": "GY",
+"Continent": "SouthAmerica"
 },
 "id": "GUY"
 },
@@ -36338,7 +36406,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Honduras",
-"Alpha-2": "HN"
+"Alpha-2": "HN",
+"Continent": "CentralAmerica"
 },
 "id": "HND"
 },
@@ -36356,7 +36425,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Croatia",
-"Alpha-2": "HR"
+"Alpha-2": "HR",
+"Continent": "Europe"
 },
 "id": "HRV"
 },
@@ -36370,7 +36440,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Haiti",
-"Alpha-2": "HT"
+"Alpha-2": "HT",
+"Continent": "Caribbean"
 },
 "id": "HTI"
 },
@@ -36389,7 +36460,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Hungary",
-"Alpha-2": "HU"
+"Alpha-2": "HU",
+"Continent": "Europe"
 },
 "id": "HUN"
 },
@@ -36467,7 +36539,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Indonesia",
-"Alpha-2": "ID"
+"Alpha-2": "ID",
+"Continent": "Asia"
 },
 "id": "IDN"
 },
@@ -36488,7 +36561,8 @@
 "type": "Polygon",
 "properties": {
 "name": "India",
-"Alpha-2": "IN"
+"Alpha-2": "IN",
+"Continent": "Asia"
 },
 "id": "IND"
 },
@@ -36502,7 +36576,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Ireland",
-"Alpha-2": "IE"
+"Alpha-2": "IE",
+"Continent": "Europe"
 },
 "id": "IRL"
 },
@@ -36524,7 +36599,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Iran",
-"Alpha-2": "IR"
+"Alpha-2": "IR",
+"Continent": "MiddleEast"
 },
 "id": "IRN"
 },
@@ -36543,7 +36619,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Iraq",
-"Alpha-2": "IQ"
+"Alpha-2": "IQ",
+"Continent": "MiddleEast"
 },
 "id": "IRQ"
 },
@@ -36556,7 +36633,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Iceland",
-"Alpha-2": "IS"
+"Alpha-2": "IS",
+"Continent": "Europe"
 },
 "id": "ISL"
 },
@@ -36575,7 +36653,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Israel",
-"Alpha-2": "IL"
+"Alpha-2": "IL",
+"Continent": "MiddleEast"
 },
 "id": "ISR"
 },
@@ -36604,7 +36683,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Italy",
-"Alpha-2": "IT"
+"Alpha-2": "IT",
+"Continent": "Europe"
 },
 "id": "ITA"
 },
@@ -36617,7 +36697,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Jamaica",
-"Alpha-2": "JM"
+"Alpha-2": "JM",
+"Continent": "Caribbean"
 },
 "id": "JAM"
 },
@@ -36636,7 +36717,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Jordan",
-"Alpha-2": "JO"
+"Alpha-2": "JO",
+"Continent": "MiddleEast"
 },
 "id": "JOR"
 },
@@ -36661,7 +36743,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Japan",
-"Alpha-2": "JP"
+"Alpha-2": "JP",
+"Continent": "Asia"
 },
 "id": "JPN"
 },
@@ -36679,7 +36762,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Kazakhstan",
-"Alpha-2": "KZ"
+"Alpha-2": "KZ",
+"Continent": "Asia"
 },
 "id": "KAZ"
 },
@@ -36697,7 +36781,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Kenya",
-"Alpha-2": "KE"
+"Alpha-2": "KE",
+"Continent": "Africa"
 },
 "id": "KEN"
 },
@@ -36713,7 +36798,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Kyrgyzstan",
-"Alpha-2": "KG"
+"Alpha-2": "KG",
+"Continent": "Asia"
 },
 "id": "KGZ"
 },
@@ -36729,7 +36815,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Cambodia",
-"Alpha-2": "KH"
+"Alpha-2": "KH",
+"Continent": "Asia"
 },
 "id": "KHM"
 },
@@ -36743,7 +36830,8 @@
 "type": "Polygon",
 "properties": {
 "name": "South Korea",
-"Alpha-2": "KR"
+"Alpha-2": "KR",
+"Continent": "Asia"
 },
 "id": "KOR"
 },
@@ -36759,7 +36847,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Kosovo",
-"Alpha-2": null
+"Alpha-2": null,
+"Continent": "Europe"
 },
 "id": "CS-KM"
 },
@@ -36774,7 +36863,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Kuwait",
-"Alpha-2": "KW"
+"Alpha-2": "KW",
+"Continent": "MiddleEast"
 },
 "id": "KWT"
 },
@@ -36791,7 +36881,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Laos",
-"Alpha-2": "LA"
+"Alpha-2": "LA",
+"Continent": "Asia"
 },
 "id": "LAO"
 },
@@ -36806,7 +36897,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Lebanon",
-"Alpha-2": "LB"
+"Alpha-2": "LB",
+"Continent": "MiddleEast"
 },
 "id": "LBN"
 },
@@ -36822,7 +36914,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Liberia",
-"Alpha-2": "LR"
+"Alpha-2": "LR",
+"Continent": "Africa"
 },
 "id": "LBR"
 },
@@ -36841,7 +36934,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Libya",
-"Alpha-2": "LY"
+"Alpha-2": "LY",
+"Continent": "Africa"
 },
 "id": "LBY"
 },
@@ -36854,7 +36948,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Sri Lanka",
-"Alpha-2": "LK"
+"Alpha-2": "LK",
+"Continent": "Asia"
 },
 "id": "LKA"
 },
@@ -36867,7 +36962,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Lesotho",
-"Alpha-2": "LS"
+"Alpha-2": "LS",
+"Continent": "Africa"
 },
 "id": "LSO"
 },
@@ -36884,7 +36980,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Lithuania",
-"Alpha-2": "LT"
+"Alpha-2": "LT",
+"Continent": "Europe"
 },
 "id": "LTU"
 },
@@ -36899,7 +36996,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Luxembourg",
-"Alpha-2": "LU"
+"Alpha-2": "LU",
+"Continent": "Europe"
 },
 "id": "LUX"
 },
@@ -36916,7 +37014,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Latvia",
-"Alpha-2": "LV"
+"Alpha-2": "LV",
+"Continent": "Europe"
 },
 "id": "LVA"
 },
@@ -36932,7 +37031,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Morocco",
-"Alpha-2": "MA"
+"Alpha-2": "MA",
+"Continent": "Europe"
 },
 "id": "MAR"
 },
@@ -36946,7 +37046,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Moldova",
-"Alpha-2": "MD"
+"Alpha-2": "MD",
+"Continent": "Europe"
 },
 "id": "MDA"
 },
@@ -36959,7 +37060,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Madagascar",
-"Alpha-2": "MG"
+"Alpha-2": "MG",
+"Continent": "Africa"
 },
 "id": "MDG"
 },
@@ -36976,7 +37078,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Mexico",
-"Alpha-2": "MX"
+"Alpha-2": "MX",
+"Continent": "NorthAmerica"
 },
 "id": "MEX"
 },
@@ -36993,7 +37096,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Macedonia",
-"Alpha-2": "MK"
+"Alpha-2": "MK",
+"Continent": "Europe"
 },
 "id": "MKD"
 },
@@ -37012,7 +37116,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Mali",
-"Alpha-2": "ML"
+"Alpha-2": "ML",
+"Continent": "Africa"
 },
 "id": "MLI"
 },
@@ -37032,7 +37137,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Malta",
-"Alpha-2": "MT"
+"Alpha-2": "MT",
+"Continent": "Europe"
 },
 "id": "MLT"
 },
@@ -37050,7 +37156,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Myanmar",
-"Alpha-2": "MM"
+"Alpha-2": "MM",
+"Continent": "Asia"
 },
 "id": "MMR"
 },
@@ -37068,7 +37175,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Montenegro",
-"Alpha-2": "ME"
+"Alpha-2": "ME",
+"Continent": "Europe"
 },
 "id": "MNE"
 },
@@ -37082,7 +37190,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Mongolia",
-"Alpha-2": "MN"
+"Alpha-2": "MN",
+"Continent": "Asia"
 },
 "id": "MNG"
 },
@@ -37102,7 +37211,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Mozambique",
-"Alpha-2": "MZ"
+"Alpha-2": "MZ",
+"Continent": "Africa"
 },
 "id": "MOZ"
 },
@@ -37119,7 +37229,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Mauritania",
-"Alpha-2": "MR"
+"Alpha-2": "MR",
+"Continent": "Africa"
 },
 "id": "MRT"
 },
@@ -37134,7 +37245,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Malawi",
-"Alpha-2": "MW"
+"Alpha-2": "MW",
+"Continent": "Africa"
 },
 "id": "MWI"
 },
@@ -37158,7 +37270,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Malaysia",
-"Alpha-2": "MY"
+"Alpha-2": "MY",
+"Continent": "Asia"
 },
 "id": "MYS"
 },
@@ -37175,7 +37288,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Namibia",
-"Alpha-2": "NA"
+"Alpha-2": "NA",
+"Continent": "Africa"
 },
 "id": "NAM"
 },
@@ -37188,7 +37302,8 @@
 "type": "Polygon",
 "properties": {
 "name": "New Caledonia",
-"Alpha-2": "NC"
+"Alpha-2": "NC",
+"Continent": "Oceania"
 },
 "id": "NCL"
 },
@@ -37208,7 +37323,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Niger",
-"Alpha-2": "NE"
+"Alpha-2": "NE",
+"Continent": "Africa"
 },
 "id": "NER"
 },
@@ -37224,7 +37340,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Nigeria",
-"Alpha-2": "NG"
+"Alpha-2": "NG",
+"Continent": "Africa"
 },
 "id": "NGA"
 },
@@ -37240,7 +37357,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Nicaragua",
-"Alpha-2": "NI"
+"Alpha-2": "NI",
+"Continent": "CentralAmerica"
 },
 "id": "NIC"
 },
@@ -37256,7 +37374,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Netherlands",
-"Alpha-2": "NL"
+"Alpha-2": "NL",
+"Continent": "Europe"
 },
 "id": "NLD"
 },
@@ -37289,7 +37408,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Norway",
-"Alpha-2": "NO"
+"Alpha-2": "NO",
+"Continent": "Europe"
 },
 "id": "NOR"
 },
@@ -37303,7 +37423,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Nepal",
-"Alpha-2": "NP"
+"Alpha-2": "NP",
+"Continent": "Asia"
 },
 "id": "NPL"
 },
@@ -37323,7 +37444,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "New Zealand",
-"Alpha-2": "NZ"
+"Alpha-2": "NZ",
+"Continent": "Oceania"
 },
 "id": "NZL"
 },
@@ -37347,7 +37469,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Oman",
-"Alpha-2": "OM"
+"Alpha-2": "OM",
+"Continent": "MiddleEast"
 },
 "id": "OMN"
 },
@@ -37364,7 +37487,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Pakistan",
-"Alpha-2": "PK"
+"Alpha-2": "PK",
+"Continent": "Asia"
 },
 "id": "PAK"
 },
@@ -37380,7 +37504,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Panama",
-"Alpha-2": "PA"
+"Alpha-2": "PA",
+"Continent": "CentralAmerica"
 },
 "id": "PAN"
 },
@@ -37398,7 +37523,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Peru",
-"Alpha-2": "PE"
+"Alpha-2": "PE",
+"Continent": "SouthAmerica"
 },
 "id": "PER"
 },
@@ -37443,7 +37569,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Philippines",
-"Alpha-2": "PH"
+"Alpha-2": "PH",
+"Continent": "Asia"
 },
 "id": "PHL"
 },
@@ -37474,7 +37601,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Papua New Guinea",
-"Alpha-2": "PG"
+"Alpha-2": "PG",
+"Continent": "Oceania"
 },
 "id": "PNG"
 },
@@ -37494,7 +37622,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Poland",
-"Alpha-2": "PL"
+"Alpha-2": "PL",
+"Continent": "Europe"
 },
 "id": "POL"
 },
@@ -37507,7 +37636,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Puerto Rico",
-"Alpha-2": "PR"
+"Alpha-2": "PR",
+"Continent": "Caribbean"
 },
 "id": "PRI"
 },
@@ -37524,7 +37654,8 @@
 "type": "Polygon",
 "properties": {
 "name": "North Korea",
-"Alpha-2": "KP"
+"Alpha-2": "KP",
+"Continent": "Asia"
 },
 "id": "PRK"
 },
@@ -37538,7 +37669,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Portugal",
-"Alpha-2": "PT"
+"Alpha-2": "PT",
+"Continent": "Europe"
 },
 "id": "PRT"
 },
@@ -37553,7 +37685,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Paraguay",
-"Alpha-2": "PY"
+"Alpha-2": "PY",
+"Continent": "SouthAmerica"
 },
 "id": "PRY"
 },
@@ -37567,7 +37700,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Qatar",
-"Alpha-2": "QA"
+"Alpha-2": "QA",
+"Continent": "MiddleEast"
 },
 "id": "QAT"
 },
@@ -37586,7 +37720,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Romania",
-"Alpha-2": "RO"
+"Alpha-2": "RO",
+"Continent": "Europe"
 },
 "id": "ROU"
 },
@@ -37681,7 +37816,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Russia",
-"Alpha-2": "RU"
+"Alpha-2": "RU",
+"Continent": "Asia"
 },
 "id": "RUS"
 },
@@ -37697,7 +37833,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Rwanda",
-"Alpha-2": "RW"
+"Alpha-2": "RW",
+"Continent": "Africa"
 },
 "id": "RWA"
 },
@@ -37714,7 +37851,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Western Sahara",
-"Alpha-2": "EH"
+"Alpha-2": "EH",
+"Continent": "Africa"
 },
 "id": "ESH"
 },
@@ -37736,7 +37874,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Saudi Arabia",
-"Alpha-2": "SA"
+"Alpha-2": "SA",
+"Continent": "MiddleEast"
 },
 "id": "SAU"
 },
@@ -37758,7 +37897,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Sudan",
-"Alpha-2": "SD"
+"Alpha-2": "SD",
+"Continent": "Africa"
 },
 "id": "SDN"
 },
@@ -37778,7 +37918,8 @@
 "type": "Polygon",
 "properties": {
 "name": "South Sudan",
-"Alpha-2": null
+"Alpha-2": null,
+"Continent": "Africa"
 },
 "id": "SSD"
 },
@@ -37797,7 +37938,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Senegal",
-"Alpha-2": "SN"
+"Alpha-2": "SN",
+"Continent": "Africa"
 },
 "id": "SEN"
 },
@@ -37832,7 +37974,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Solomon Islands",
-"Alpha-2": "SB"
+"Alpha-2": "SB",
+"Continent": "Oceania"
 },
 "id": "SLB"
 },
@@ -37847,7 +37990,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Sierra Leone",
-"Alpha-2": "SL"
+"Alpha-2": "SL",
+"Continent": "Africa"
 },
 "id": "SLE"
 },
@@ -37862,7 +38006,8 @@
 "type": "Polygon",
 "properties": {
 "name": "El Salvador",
-"Alpha-2": "SV"
+"Alpha-2": "SV",
+"Continent": "SouthAmerica"
 },
 "id": "SLV"
 },
@@ -37878,7 +38023,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Somaliland",
-"Alpha-2": null
+"Alpha-2": null,
+"Continent": "Africa"
 },
 "id": "-99"
 },
@@ -37894,7 +38040,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Somalia",
-"Alpha-2": "SO"
+"Alpha-2": "SO",
+"Continent": "Africa"
 },
 "id": "SOM"
 },
@@ -37914,7 +38061,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Republic of Serbia",
-"Alpha-2": "RS"
+"Alpha-2": "RS",
+"Continent": "Europe"
 },
 "id": "SRB"
 },
@@ -37931,7 +38079,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Suriname",
-"Alpha-2": "SR"
+"Alpha-2": "SR",
+"Continent": "SouthAmerica"
 },
 "id": "SUR"
 },
@@ -37948,7 +38097,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Slovakia",
-"Alpha-2": "SK"
+"Alpha-2": "SK",
+"Continent": "Europe"
 },
 "id": "SVK"
 },
@@ -37965,7 +38115,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Slovenia",
-"Alpha-2": "SI"
+"Alpha-2": "SI",
+"Continent": "Europe"
 },
 "id": "SVN"
 },
@@ -37989,7 +38140,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Sweden",
-"Alpha-2": "SE"
+"Alpha-2": "SE",
+"Continent": "Europe"
 },
 "id": "SWE"
 },
@@ -38003,7 +38155,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Swaziland",
-"Alpha-2": "SZ"
+"Alpha-2": "SZ",
+"Continent": "Africa"
 },
 "id": "SWZ"
 },
@@ -38021,7 +38174,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Syria",
-"Alpha-2": "SY"
+"Alpha-2": "SY",
+"Continent": "MiddleEast"
 },
 "id": "SYR"
 },
@@ -38038,7 +38192,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Chad",
-"Alpha-2": "TD"
+"Alpha-2": "TD",
+"Continent": "Africa"
 },
 "id": "TCD"
 },
@@ -38054,7 +38209,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Togo",
-"Alpha-2": "TG"
+"Alpha-2": "TG",
+"Continent": "Africa"
 },
 "id": "TGO"
 },
@@ -38072,7 +38228,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Thailand",
-"Alpha-2": "TH"
+"Alpha-2": "TH",
+"Continent": "Asia"
 },
 "id": "THA"
 },
@@ -38088,7 +38245,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Tajikistan",
-"Alpha-2": "TJ"
+"Alpha-2": "TJ",
+"Continent": "Asia"
 },
 "id": "TJK"
 },
@@ -38105,7 +38263,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Turkmenistan",
-"Alpha-2": "TM"
+"Alpha-2": "TM",
+"Continent": "Asia"
 },
 "id": "TKM"
 },
@@ -38119,7 +38278,8 @@
 "type": "Polygon",
 "properties": {
 "name": "East Timor",
-"Alpha-2": "TL"
+"Alpha-2": "TL",
+"Continent": "Asia"
 },
 "id": "TLS"
 },
@@ -38132,7 +38292,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Trinidad and Tobago",
-"Alpha-2": "TT"
+"Alpha-2": "TT",
+"Continent": "Caribbean"
 },
 "id": "TTO"
 },
@@ -38147,7 +38308,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Tunisia",
-"Alpha-2": "TN"
+"Alpha-2": "TN",
+"Continent": "Africa"
 },
 "id": "TUN"
 },
@@ -38174,7 +38336,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Turkey",
-"Alpha-2": "TR"
+"Alpha-2": "TR",
+"Continent": "MiddleEast"
 },
 "id": "TUR"
 },
@@ -38187,7 +38350,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Taiwan",
-"Alpha-2": "TW"
+"Alpha-2": "TW",
+"Continent": "Asia"
 },
 "id": "TWN"
 },
@@ -38208,7 +38372,8 @@
 "type": "Polygon",
 "properties": {
 "name": "United Republic of Tanzania",
-"Alpha-2": "TZ"
+"Alpha-2": "TZ",
+"Continent": "Africa"
 },
 "id": "TZA"
 },
@@ -38226,7 +38391,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Uganda",
-"Alpha-2": "UG"
+"Alpha-2": "UG",
+"Continent": "Africa"
 },
 "id": "UGA"
 },
@@ -38247,7 +38413,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Ukraine",
-"Alpha-2": "UA"
+"Alpha-2": "UA",
+"Continent": "Europe"
 },
 "id": "UKR"
 },
@@ -38262,7 +38429,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Uruguay",
-"Alpha-2": "UY"
+"Alpha-2": "UY",
+"Continent": "SouthAmerica"
 },
 "id": "URY"
 },
@@ -38326,7 +38494,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "United States of America",
-"Alpha-2": "US"
+"Alpha-2": "US",
+"Continent": "NorthAmerica"
 },
 "id": "USA"
 },
@@ -38343,7 +38512,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Uzbekistan",
-"Alpha-2": "UZ"
+"Alpha-2": "UZ",
+"Continent": "Asia"
 },
 "id": "UZB"
 },
@@ -38359,7 +38529,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Venezuela",
-"Alpha-2": "VE"
+"Alpha-2": "VE",
+"Continent": "SouthAmerica"
 },
 "id": "VEN"
 },
@@ -38375,7 +38546,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Vietnam",
-"Alpha-2": "VN"
+"Alpha-2": "VN",
+"Continent": "Asia"
 },
 "id": "VNM"
 },
@@ -38395,7 +38567,8 @@
 "type": "MultiPolygon",
 "properties": {
 "name": "Vanuatu",
-"Alpha-2": "VU"
+"Alpha-2": "VU",
+"Continent": "Oceania"
 },
 "id": "VUT"
 },
@@ -38409,7 +38582,8 @@
 "type": "Polygon",
 "properties": {
 "name": "West Bank",
-"Alpha-2": "PS"
+"Alpha-2": "PS",
+"Continent": "MiddleEast"
 },
 "id": "PSE"
 },
@@ -38424,7 +38598,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Yemen",
-"Alpha-2": "YE"
+"Alpha-2": "YE",
+"Continent": "MiddleEast"
 },
 "id": "YEM"
 },
@@ -38447,7 +38622,8 @@
 "type": "Polygon",
 "properties": {
 "name": "South Africa",
-"Alpha-2": "ZA"
+"Alpha-2": "ZA",
+"Continent": "Africa"
 },
 "id": "ZAF"
 },
@@ -38467,7 +38643,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Zambia",
-"Alpha-2": "ZM"
+"Alpha-2": "ZM",
+"Continent": "Africa"
 },
 "id": "ZMB"
 },
@@ -38483,7 +38660,8 @@
 "type": "Polygon",
 "properties": {
 "name": "Zimbabwe",
-"Alpha-2": "ZW"
+"Alpha-2": "ZW",
+"Continent": "Africa"
 },
 "id": "ZWE"
 }
